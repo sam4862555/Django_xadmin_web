@@ -11,6 +11,8 @@ venv/
 
 __pycache__/
 
+## logs
+logs/
 
 ## idea 环境
 .idea/
