@@ -1,0 +1,16 @@
+## python package
+
+package/
+
+## python 相关
+
+depend_package/
+venv/
+
+## cache
+
+__pycache__/
+
+
+## idea 环境
+.idea/
